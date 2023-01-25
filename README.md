@@ -1,4 +1,4 @@
-<img src="https://globaldevtools.bbva.com/bitbucket/projects/ARSFS/repos/sfdc_financial_services/raw/docs/images/bbva-logo-arg-full.svg?at=refs%2Fheads%2Fdevelop" align="right" width="200" height="200" />
+<img src="https://raw.githubusercontent.com/Gorachevsky/guides/301b1ec02d8408b174c3f3e776fb7b8a6ee67b56/docs/images/bbva-logo-arg-full.svg" align="right" width="200" height="200" />
 
 # Guides
 
