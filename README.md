@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Gorachevsky/guides/301b1ec02d8408b174c3f3e776fb7b8a6ee67b56/docs/images/guides-logo-main.svg" align="right" width="200" height="200" />
+<img src="https://raw.githubusercontent.com/Gorachevsky/guides/62506d5626098c01de28a027af067127c5b4bc56/docs/images/guides-logo-main.svg" align="right" width="200" height="200" />
 
 # Guides
 
