@@ -3,8 +3,6 @@
 
 # Git Guide #
 
----
-
 ## Index
 
 - [Get Started]()
