@@ -6,7 +6,6 @@
     <summary><h1 style="display: inline-block;">Git Guide</h1></summary>
   </ul>
 </div>
-
 ---
 
 ## Index
