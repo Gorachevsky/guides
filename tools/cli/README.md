@@ -6,4 +6,8 @@
 
 ## Index
 
-//TODO
+- [Fish](/fish)
+- [GitBash](/git-bash)
+- [Mac](/mac)
+- [Powershell](/powershell)
+- [Windows](/windows)
