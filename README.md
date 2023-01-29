@@ -17,6 +17,7 @@ This repository contains the compilation of all the knowledge related to program
 - [C](/programming-languages/c/README.md)
 - [Java](/programming-languages/java/README.md)
 - [Javascript](/programming-languages/javascript/README.md)
+- [Typescript](/programming-languages/typescript/README.md)
 - [Rust](/programming-languages/rust/README.md)
 
 ## Salesforce
