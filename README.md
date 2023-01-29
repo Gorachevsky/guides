@@ -6,33 +6,34 @@ This repository contains the compilation of all the knowledge related to program
 
 ## Frameworks
 
-- [Angular](/)
-- [Next](/)
-- [React](/)
-- [Tailwind](/)
+- [Angular](/frameworks/angular)
+- [Next](/frameworks/next)
+- [React](/frameworks/react)
+- [Tailwind](/frameworks/tailwind)
 
 ## Programming Languages
 
-- [C++](/guides/c++/README.md)
-- [C](/guides/c/README.md)
-- [Java](/guides/java/README.md)
-- [Javascript](/guides/javascript/README.md)
-- [Rust](/guides/rust/README.md)
+- [C++](/programming-languages/c++/README.md)
+- [C](/programming-languages/c/README.md)
+- [Java](/programming-languages/java/README.md)
+- [Javascript](/programming-languages/javascript/README.md)
+- [Rust](/programming-languages/rust/README.md)
 
 ## Salesforce
 
-- [Apex](/)
-- [Aura (Lightning Components)](/)
-- [Flows](/)
-- [LWC (Lightning Web Components](/)
-- [SFDX](/)
-- [Validation Rules](/)
-- [Visualforce](/)
-- [Workflow Rules](/)
+- [Apex](/salesforce/apex)
+- [Aura (Lightning Components)](/salesforce/aura)
+- [Flows](/salesforce/flows)
+- [LWC (Lightning Web Components](/salesforce/lwc)
+- [SFDX](/salesforce/sfdx)
+- [Validation Rules](/salesforce/validation-rules)
+- [Visualforce](/salesforce/visualforce)
+- [Workflow Rules](/salesforce/workflows)
 
 ## Tools
 
-- [CLI (Command-line interfaces)](/)
-- [Git](/)
-- [Vim](/)
-- [VSC (Visual Studio Code)](/)
+- [Adobe](/tools/adobe)
+- [CLI (Command-line interfaces)](/tools/cli)
+- [Git](/tools/git)
+- [Vim](/tools/vim)
+- [VSC (Visual Studio Code)](/tools/vsc)
