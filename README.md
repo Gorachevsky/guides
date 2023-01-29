@@ -6,7 +6,7 @@ This repository contains the compilation of all the knowledge related to program
 
 ## Index
 
-- [Frameworks](/##Frameworks)
+- [Frameworks](#Frameworks)
 - [Programming Languages](#programming-languages)
 - [Salesforce](#salesforce)
 - [Tools](#tools)
@@ -26,6 +26,10 @@ This repository contains the compilation of all the knowledge related to program
 - [Javascript](/programming-languages/javascript/README.md)
 - [Typescript](/programming-languages/typescript/README.md)
 - [Rust](/programming-languages/rust/README.md)
+
+## Resources
+
+- [Dotfiles](../dotfiles)
 
 ## Salesforce
 
