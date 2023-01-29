@@ -9,7 +9,7 @@ This repository contains the compilation of all the knowledge related to program
 - [Angular](/guides/angular)
 - [C++](/guides/c++)
 - [C](/guides/c)
-- [Git](/guides/git)
+- [Git](/guides/git/README.md)
 - [Java](/guides/java)
 - [Javascript](/guides/javascript)
 - [Next](/guides/next)
@@ -17,3 +17,4 @@ This repository contains the compilation of all the knowledge related to program
 - [Rust](/guides/rust)
 - [Salesforce](/guides/salesforce)
 - [Tailwind](/guides/tailwind)
+- [Vim](/guides/vim)
