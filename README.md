@@ -34,7 +34,7 @@ code calls into the library to access reusable code. With IoC, the framework cal
 
 ## Resources
 
-- [Dotfiles](../dotfiles)
+- [Dotfiles](https://github.com/Gorachevsky/dotfiles)
 
 ## Salesforce
 
