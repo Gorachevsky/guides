@@ -3,6 +3,9 @@
   <defs>
     <style>
     <style> 
+      h1 {
+        border-bottom: none !important;
+      }
       .cls-1 {
         fill: none;
       }
