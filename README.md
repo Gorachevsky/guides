@@ -13,6 +13,8 @@ This repository contains the compilation of all the knowledge related to program
 
 ## Frameworks
 
+A framework in programming is a tool that provides ready-made components or solutions that are customized in order to speed up development. A framework may include a library, but is defined by the principle of inversion of control (IoC). With traditional programming, the custom code calls into the library to access reusable code. With IoC, the framework calls on custom pieces of code when necessary. [More info.](https://www.netsolutions.com/insights/what-is-a-framework-in-programming/)
+
 - [Angular](/frameworks/angular)
 - [Next](/frameworks/next)
 - [React](/frameworks/react)
