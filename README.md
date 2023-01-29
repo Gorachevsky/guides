@@ -4,17 +4,35 @@
 
 This repository contains the compilation of all the knowledge related to programming that I have acquired over the years.
 
-## Index
+## Frameworks
 
-- [Angular](/guides/angular/README.md)
+- [Angular](/)
+- [Next](/)
+- [React](/)
+- [Tailwind](/)
+
+## Programming Languages
+
 - [C++](/guides/c++/README.md)
 - [C](/guides/c/README.md)
-- [Git](/guides/git/README.md)
 - [Java](/guides/java/README.md)
 - [Javascript](/guides/javascript/README.md)
-- [Next](/guides/next/README.md)
-- [React](/guides/react/README.md)
 - [Rust](/guides/rust/README.md)
-- [Salesforce](/guides/salesforce/README.md)
-- [Tailwind](/guides/tailwind/README.md)
-- [Vim](/guides/vim/README.md)
+
+## Salesforce
+
+- [Apex](/)
+- [Aura (Lightning Components)](/)
+- [Flows](/)
+- [LWC (Lightning Web Components](/)
+- [SFDX](/)
+- [Validation Rules](/)
+- [Visualforce](/)
+- [Workflow Rules](/)
+
+## Tools
+
+- [CLI (Command-line interfaces)](/)
+- [Git](/)
+- [Vim](/)
+- [VSC (Visual Studio Code)](/)
