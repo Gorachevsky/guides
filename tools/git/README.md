@@ -6,5 +6,15 @@ Git is a free and open source distributed version control system designed to han
 
 ## Index
 
-- [Get Started]()
-- [Branchings]()
+- [Get started](#get-started)
+  - [Setup](#setup)
+  - [Cloning remote repository](#cloning-remote-repository)
+- [Branchings](#branchings)
+
+## Get started
+
+### Setup
+
+### Cloning remote repository
+
+## Branchings
