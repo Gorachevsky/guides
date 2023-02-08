@@ -2,6 +2,14 @@
 
 # Macbook's Guide
 
+## Index
+
+- [Applications](#applications)
+  - [iStats Menus](#istat-menus)
+  - [Homebrew](#homebrew)
+  - [Git](#git)
+  - [iTerm2](#iterm2)
+
 ## Applications
 
 ### iStat Menus
@@ -16,9 +24,9 @@ Homebrew is like advance package tool for MacOS and Linux. [More info.](https://
 
 To install homebrew, insert the following script command into the terminal:
 
-'''
+```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-'''
+```
 
 After this, the unique prompt step is input our current Mac's password
 
@@ -33,9 +41,9 @@ to very large projects with speed and efficiency. [More info.](https://git-scm.c
 
 To install git, insert the following command into the terminal:
 
-'''
+```
 brew install git
-'''
+```
 
 ### iTerm2
 
@@ -48,9 +56,9 @@ iTerm2 brings the terminal into the modern age with features you never knew you 
 
 To install iTerm2, insert the following command into the terminal:
 
-'''
+```
 brew install iterm2 --cask
-'''
+```
 
 #### Customization
 
