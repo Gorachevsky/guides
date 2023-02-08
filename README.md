@@ -6,7 +6,8 @@ This repository contains the compilation of all the knowledge related to program
 
 ## Index
 
-- [Frameworks](#Frameworks)
+- [Frameworks](#frameworks)
+- [Devices](#devices)
 - [Programming Languages](#programming-languages)
 - [Salesforce](#salesforce)
 - [Tools](#tools)
@@ -23,6 +24,11 @@ code calls into the library to access reusable code. With IoC, the framework cal
 - [React](/frameworks/react)
 - [Tailwind](/frameworks/tailwind)
 
+## Devices
+
+- [Apple](/devices/apple)
+- [Windows](/devices/windows)
+
 ## Programming Languages
 
 - [C++](/programming-languages/c++/README.md)
@@ -31,10 +37,6 @@ code calls into the library to access reusable code. With IoC, the framework cal
 - [Javascript](/programming-languages/javascript/README.md)
 - [Typescript](/programming-languages/typescript/README.md)
 - [Rust](/programming-languages/rust/README.md)
-
-## Resources
-
-- [Dotfiles](https://github.com/Gorachevsky/dotfiles)
 
 ## Salesforce
 
