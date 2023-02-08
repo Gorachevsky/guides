@@ -1,6 +1,6 @@
 <img src="" align="right" width="200" height="200" />
 
-# Macbook's Guide
+# Apple Guide
 
 ## Index
 
@@ -9,6 +9,7 @@
   - [Homebrew](#homebrew)
   - [Git](#git)
   - [iTerm2](#iterm2)
+- [Dotfiles](https://github.com/Gorachevsky/dotfiles)
 
 ## Applications
 
@@ -65,5 +66,3 @@ brew install iterm2 --cask
 Inside the iTerm2 terminal, open the settings menu (cmd + ,). Go to "Profiles" > "Colors" and in the right down corner, click on the dropdown picklist called "Color presets..." and choose "Solarized Dark" option:
 
 //TODO img
-
-## Dotfiles
