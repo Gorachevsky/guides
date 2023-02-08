@@ -11,7 +11,7 @@
   - [iStats Menus](#istat-menus)
   - [iTerm2](#iterm2)
   - [Karabiner Elements](#karabiner-elements)
-- [Dotfiles](https://github.com/Gorachevsky/dotfiles)
+- [Dotfiles](https://github.com/Gorachevsky/dotfiles-apple)
 
 ## Applications
 
