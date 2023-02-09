@@ -35,8 +35,9 @@ code calls into the library to access reusable code. With IoC, the framework cal
 - [C](/programming-languages/c/README.md)
 - [Java](/programming-languages/java/README.md)
 - [Javascript](/programming-languages/javascript/README.md)
-- [Typescript](/programming-languages/typescript/README.md)
+- [Lua](/programming-languages/lua/README.md)
 - [Rust](/programming-languages/rust/README.md)
+- [Typescript](/programming-languages/typescript/README.md)
 
 ## Salesforce
 
