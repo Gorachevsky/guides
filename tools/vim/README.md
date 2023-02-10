@@ -2,4 +2,22 @@
 
 # Vim Guide
 
-//TODO
+## Custom Keymaps
+
+### Turn on/off full window
+
+```
+cmd + shift + 0
+```
+
+### Zoom in
+
+```
+cmd + "+"
+```
+
+### Zoom out
+
+```
+cmd + "-"
+```
