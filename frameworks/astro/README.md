@@ -20,6 +20,5 @@ yarn create astro
 
 Then follow the instructions on the screen:
 
-<img src="https://github.com/Gorachevsky/guides/blob/develop/frameworks/astro/docs/images/astro-init.png?raw=true" align="right" />
-
+<img src="https://github.com/Gorachevsky/guides/blob/develop/frameworks/astro/docs/images/astro-init.png?raw=true" align="right" width="400" />
 - Confirm the project path:
