@@ -20,7 +20,7 @@ yarn create astro
 
 Then follow the instructions on the screen:
 
-<img src="https://github.com/Gorachevsky/guides/blob/develop/frameworks/astro/docs/images/astro-init.png?raw=true" align="right" width="500" />
+<img src="https://github.com/Gorachevsky/guides/blob/develop/frameworks/astro/docs/images/astro-init-v2.png?raw=true" align="right" width="500" />
 
 - Confirm the project path.
 - Confirm template use and in case of afirmative response, selection of the desired type of template.
