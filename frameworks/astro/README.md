@@ -20,5 +20,11 @@ yarn create astro
 
 Then follow the instructions on the screen:
 
-<img src="https://github.com/Gorachevsky/guides/blob/develop/frameworks/astro/docs/images/astro-init.png?raw=true" align="right" width="400" />
-- Confirm the project path:
+<img src="https://github.com/Gorachevsky/guides/blob/develop/frameworks/astro/docs/images/astro-init.png?raw=true" align="right" width="600" />
+
+- Confirm the project path.
+- Confirm template use and in case of afirmative response, selection of the desired type of template.
+- Confirm the installation of dependencies.
+- Confirm the git repository initialization.
+- Confirm Typescript as programing-language.
+- In case the previous response was afirmative, confirm the strictness of the TS.
