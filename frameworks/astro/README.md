@@ -18,9 +18,9 @@ To install astro, please run the following command in the terminal:
 yarn create astro
 ```
 
-Then follow the instructions on the screen:
-
 <img src="https://github.com/Gorachevsky/guides/blob/develop/frameworks/astro/docs/images/astro-init-v2.png?raw=true" align="right" width="500" />
+
+After performing this action, a list of instructions will be displayed as a guide. Then follow them until the end of the initial configuration:
 
 - Confirm the project path.
 - Confirm template use and in case of afirmative response, selection of the desired type of template.
