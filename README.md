@@ -20,6 +20,7 @@ code calls into the library to access reusable code. With IoC, the framework cal
 [More info.](https://www.netsolutions.com/insights/what-is-a-framework-in-programming/)
 
 - [Angular](/frameworks/angular)
+- [Astro](/frameworks/astro)
 - [Next](/frameworks/next)
 - [React](/frameworks/react)
 - [Tailwind](/frameworks/tailwind)
